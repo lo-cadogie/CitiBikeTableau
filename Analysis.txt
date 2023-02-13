@@ -1,0 +1,24 @@
+CitiBike Data Trends
+By LC
+
+Chosen Period
+Feb 2021 - Jan 2023
+
+The number of rides increased from 2021 to 2022.
+
+The most popular stations to start/end a trip are City Hall, Hoboken Terminal, and South Waterfront.
+Stations that aren't performing well are E 20th & FDR Drive, Mercer St & Spring Street, MTL-ECO5-LAB, and JCBS Depot.
+The bottom 10% of ended trips were 'null' suggesting that most riders docked at a station.
+
+Most popular months for rides are July - October
+Peak hours to start a trip - 8 am and 5 PM in the winter. 8AM and 6PM in the summer.
+
+The average distance is 0.78 miles for nonmembers and 0.69 miles for members, suggesting members take shorter, more frequent trips.
+
+The bikes with longest average distance are Boston Rd & Prospect Ave, Westchester Ave & Southern Blvd, St. Nicholas Terrace & Covent Ave,
+E 161 St & River Ave, Cedar Ave & W Frodham Rd. Check these stations regularly for bikes that may need maintenance. 
+
+The top and bottom 10% for start and end stations have their unique visualizations which are labeled accordingly. We can conclude areas
+to invest in and areas to shy away from based on popularity (or lack thereof).
+
+You can click on each data point on the visualizations to get more information.
